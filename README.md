@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Dina</h1>
-<h3 align="left"> :woman_technologist: About Me:</h3>
+<h3 align="left"> About Me:</h3>
 I'm really into data analysis and I'm trying my best to get a job, where I will be useful with my skills :smiley_cat:
 
 - 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](dinakravchenko05@gmail.com)
