@@ -8,7 +8,9 @@ I'm really into data analysis and I'm trying my best to get a job, where I will 
 
 - 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](dinakravchenko05@gmail.com)
 
-- 📄 My CV [Ссылка на диск](https://disk.yandex.ru/client/disk/cv)
+- 📄 My CV [link](https://disk.yandex.ru/client/disk/cv)
+
+- telegram: @ddinakrav
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
