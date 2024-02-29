@@ -4,11 +4,9 @@
 
 <h1 align="center">Hi 👋, I'm Dina</h1>
 <h3 align="left"> About Me:</h3>
-I'm really into data analysis and I'm trying my best to get a job, where I will be useful with my skills :smiley_cat:
+I'm an Analyst/Data Engineer at Axenix (ex. Accenture) and I'm really into data analysis :smiley_cat:
 
 - 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](dinakravchenko05@gmail.com)
-
-- 📄 My CV [link](https://disk.yandex.ru/client/disk/cv)
 
 - telegram: @ddinakrav
 
